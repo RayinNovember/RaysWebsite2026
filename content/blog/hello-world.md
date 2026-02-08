@@ -17,6 +17,8 @@ The paradigm of Bayesian analysis can be summarized as: For each possible explan
 
 In Bayesian statistics, plausibility of the explanations is called posterior:
 
-$\underbrace {f(\theta|data)}_{posterior} =\underbrace {f(data|\theta)}_{likelihood}\underbrace{f(\theta)}_{prior}/\underbrace{f(data)}_{marginal\\likelihood}$
+$\underbrace {f(\theta|data)}_{posterior}$
+
+$ =\underbrace {f(data|\theta)}_{likelihood}\underbrace{f(\theta)}_{prior}/\underbrace{f(data)}_{marginal\\likelihood}$
 
 Here, $\theta$ represents the a possible explanation for the data. Specifically, it is the set of parameters that define the underlying data-generating process. 

@@ -24,6 +24,7 @@ params:
     - item: skills
       panel_id: skill-panel
     - item: hobbies
+  math: true
 
 build:
   buildStats:
