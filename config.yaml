@@ -1,7 +1,7 @@
 baseURL: /
 languageCode: en-us
-build:
-  writeStats: true
+#build:
+#  writeStats: true
 title: aafu theme
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 # theme: aafu
@@ -24,3 +24,19 @@ params:
     - item: skills
       panel_id: skill-panel
     - item: hobbies
+
+build:
+  buildStats:
+    enable: true
+  cachebusters:
+  - source: 'assets/notwatching/hugo_stats\.json'
+    target: css
+  - source: '(postcss|tailwind)\.config\.js'
+    target: css
+module:
+  mounts:
+  - source: assets
+    target: assets
+  - disableWatch: true
+    source: hugo_stats.json
+    target: assets/notwatching/hugo_stats.json

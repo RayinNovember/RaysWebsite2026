@@ -14,3 +14,10 @@
     {{ end }}
   </body>
 </html>
+<head>
+  ...
+  {{ with (templates.Defer (dict "key" "global")) }}
+    {{ partial "css.html" . }}
+  {{ end }}
+  ...
+</head>
