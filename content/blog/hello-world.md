@@ -2,7 +2,7 @@
 title = 'Price Elasticity'
 date = 2018-05-06
 draft = false
-relPermalinkOverride = '/docs/bayesian.html'
+relPermalinkOverride = '\docs\bayesian.html'
 tags = ['Python', "Data Analytic", "Finance"]
 +++
 
