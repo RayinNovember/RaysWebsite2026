@@ -3,19 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aafu.darshanbaral.com/blog/</loc>
-    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/categories/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/categories/diam-aliqua/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/categories/fringilla/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/laoreet/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/mollis-urna/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/notes/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/blog/bayesian/</loc>
+    <lastmod>2025-01-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/search/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/blog/hello-world/</loc>
-    <lastmod>2024-05-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/categories/</loc>
-    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/tags/css/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
@@ -32,31 +50,25 @@
     <loc>https://aafu.darshanbaral.com/categories/syntax/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/</loc>
-    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aafu.darshanbaral.com/categories/themes/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/tags/themes/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aafu.darshanbaral.com/categories/diam-aliqua/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <loc>https://aafu.darshanbaral.com/tags/data-analytic/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aafu.darshanbaral.com/categories/fringilla/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <loc>https://aafu.darshanbaral.com/tags/finance/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/laoreet/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
+    <loc>https://aafu.darshanbaral.com/blog/hello-world/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/python/</loc>
+    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/blog/post_3/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/mollis-urna/</loc>
-    <lastmod>2018-01-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/notes/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
   </url>
 </urlset>
