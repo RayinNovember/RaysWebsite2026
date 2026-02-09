@@ -37,6 +37,13 @@
       <description></description>
     </item>
     <item>
+      <title>Bayesian</title>
+      <link>//localhost:1313/tags/bayesian/</link>
+      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/bayesian/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Data Analytic</title>
       <link>//localhost:1313/tags/data-analytic/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
@@ -44,17 +51,10 @@
       <description></description>
     </item>
     <item>
-      <title>Finance</title>
-      <link>//localhost:1313/tags/finance/</link>
+      <title>R</title>
+      <link>//localhost:1313/tags/r/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/finance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Python</title>
-      <link>//localhost:1313/tags/python/</link>
-      <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/tags/python/</guid>
+      <guid>//localhost:1313/tags/r/</guid>
       <description></description>
     </item>
     <item>
