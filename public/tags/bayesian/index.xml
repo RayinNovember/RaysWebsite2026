@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bayesian on aafu theme</title>
-    <link>//localhost:1313/tags/bayesian/</link>
+    <link>http://localhost:1313/tags/bayesian/</link>
     <description>Recent content in Bayesian on aafu theme</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 May 2018 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bayesian/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bayesian Analysis</title>
-      <link>//localhost:1313/blog/bayesian/</link>
+      <link>http://localhost:1313/blog/bayesian/</link>
       <pubDate>Sun, 06 May 2018 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blog/bayesian/</guid>
+      <guid>http://localhost:1313/blog/bayesian/</guid>
       <description>&lt;style type=&#34;text/css&#34;&gt;&#xD;&#xA;&#xD;&#xA;body, td {&#xD;&#xA;   font-size: 18px;&#xD;&#xA;}&#xD;&#xA;code.r{&#xD;&#xA;  font-size: 12px;&#xD;&#xA;}&#xD;&#xA;pre {&#xD;&#xA;  font-size: 12px&#xD;&#xA;}&#xD;&#xA;&lt;/style&gt;&#xD;&#xA;&lt;h2 id=&#34;what-is-bayesian-analysis&#34;&gt;What is Bayesian Analysis?&lt;/h2&gt;&#xA;&lt;p&gt;The paradigm of Bayesian analysis can be summarized as: For each&#xA;possible explanation of the sample, count all the ways the sample could&#xA;happen, explanations with more ways to produce the sample are more&#xA;plausible.&lt;/p&gt;&#xA;&lt;p&gt;In Bayesian statistics, plausibility of the explanations is called&#xA;posterior:&lt;/p&gt;&#xA;&lt;p&gt;$\underbrace {f(\theta|data)}&lt;em&gt;{posterior} =\underbrace {f(data|\theta)}&lt;/em&gt;{likelihood}\underbrace{f(\theta)}&lt;em&gt;{prior}/\underbrace{f(data)}&lt;/em&gt;{marginal\likelihood}$&lt;/p&gt;</description>
     </item>
   </channel>

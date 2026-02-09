@@ -2,7 +2,7 @@
 title = 'Bayesian Analysis'
 date = 2018-05-06
 draft = false
-relPermalinkOverride = '\docs\bayesian.html'
+relPermalinkOverride = '/docs/bayesian.html'
 tags = ['R', "Data Analytic", "Bayesian"]
 +++
 
