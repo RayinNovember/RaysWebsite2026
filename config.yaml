@@ -1,4 +1,5 @@
-baseURL: /
+#baseURL: /
+baseURL : 'https://changruiraywang.netlify.app/'
 languageCode: en-us
 #build:
 #  writeStats: true
@@ -47,4 +48,5 @@ markup:
     renderer:
       unsafe: true
 
-relativeURLs: true
+relativeURLs: false
+conicalURLs: true
