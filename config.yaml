@@ -47,5 +47,4 @@ markup:
     renderer:
       unsafe: true
 
-baseurl: "https://changruiraywang.netlify.app/"
 relativeURLs: true
