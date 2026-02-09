@@ -1,9 +1,9 @@
 +++
-title = 'Price Elasticity'
+title = 'Bayesian Analysis'
 date = 2018-05-06
 draft = false
 relPermalinkOverride = '\docs\bayesian.html'
-tags = ['Python', "Data Analytic", "Finance"]
+tags = ['R', "Data Analytic", "Bayesian"]
 +++
 
 <style type="text/css">
