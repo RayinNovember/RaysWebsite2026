@@ -25,7 +25,6 @@ params:
       panel_id: skill-panel
     - item: hobbies
   math: true
-  relativeURLs: true
 
 build:
   buildStats:
@@ -47,4 +46,4 @@ markup:
     renderer:
       unsafe: true
 
-baseurl: ""
+relativeURLs: true
