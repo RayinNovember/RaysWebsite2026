@@ -49,4 +49,4 @@ markup:
       unsafe: true
 
 relativeURLs: false
-conicalURLs: true
+canonifyURLs: true
