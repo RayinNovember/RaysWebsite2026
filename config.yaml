@@ -26,6 +26,7 @@ params:
     - item: hobbies
   math: true
 
+
 build:
   buildStats:
     enable: true
@@ -46,4 +47,5 @@ markup:
     renderer:
       unsafe: true
 
+baseurl: ""
 relativeURLs: true
