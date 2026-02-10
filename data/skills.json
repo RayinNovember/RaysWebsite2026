@@ -4,16 +4,36 @@
   "icon": "bi bi-list-check",
   "list": [
     {
-      "skill": "Skill 1, Skill 2",
+      "skill": "Machine Learning",
       "skillrating": 90
     },
     {
-      "skill": "Skill 3",
+      "skill": "Statistical Inference",
       "skillrating": 80
     },
     {
-      "skill": "Skill 4",
+      "skill": "Data Analysis & Visualization",
+      "skillrating": 70
+    },
+    {
+      "skill": "Deep Learning",
       "skillrating": 50
+    },
+    {
+      "skill": "AI Application",
+      "skillrating": 50
+    },
+    {
+      "skill": "Python",
+      "skillrating": 60
+    },
+    {
+      "skill": "R",
+      "skillrating": 80
+    },
+    {
+      "skill": "Power BI",
+      "skillrating": 80
     }
   ]
 }

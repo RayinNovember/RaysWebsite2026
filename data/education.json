@@ -3,23 +3,18 @@
   "icon": "bi bi-mortarboard",
   "list": [
     {
-      "degree": "Ph.D. in Subject",
-      "college": "University of State-City",
-      "dates": "2013 - 2018",
+      "degree": "Master of Applied Statistics",
+      "college": "The Ohio State University",
+      "dates": "2021 - 2023",
       "thesis_title": "Effect of humans on other humans: a study of human behavior.",
       "thesis_url": "#"
     },
     {
-      "degree": "M.S. in Subject",
-      "college": "University of State-City",
-      "dates": "2013 - 2018",
+      "degree": "Master of Human Resources",
+      "college": "The Ohio State University",
+      "dates": "2015 - 2017",
       "thesis_title": "Effect of humans on other humans: a study of human behavior.",
       "thesis_url": "#"
-    },
-    {
-      "degree": "B.S. in Subject",
-      "college": "University of State-City",
-      "dates": "2004 - 2009"
     }
   ]
 }

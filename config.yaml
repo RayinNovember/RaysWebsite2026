@@ -3,7 +3,7 @@ baseURL : 'https://changruiraywang.netlify.app/'
 languageCode: en-us
 #build:
 #  writeStats: true
-title: aafu theme
+title: Changrui Ray Wang
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 # theme: aafu
 
@@ -19,12 +19,12 @@ params:
     - item: about_me
       expand: true # only the first `expand: true` will take effect
     - item: experiences
-    - item: education
-    - item: publications
+    #- item: publications
     - item: projects
     - item: skills
       panel_id: skill-panel
-    - item: hobbies
+    - item: education
+    #- item: hobbies
   math: true
 
 
