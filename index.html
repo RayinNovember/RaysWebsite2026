@@ -2,7 +2,7 @@
 <html lang="en-us" class="m-auto  dark "><head>
 	<meta name="generator" content="Hugo 0.152.2">
   
-  <title>aafu theme</title>
+  <title>ChangruiRayWang</title>
   
   <meta charset="UTF-8" />
   <meta
@@ -11,8 +11,8 @@
   />
   <meta name="theme-color" content="" />
   <meta name="description" content="Website title" />
-  <meta name="author" content="Darshan Baral" />
-  <link rel="icon" href="https://aafu.darshanbaral.com/favicon.ico" type="image/x-icon" />
+  <meta name="author" content="" />
+  <link rel="icon" href="/favicon.ico" type="image/x-icon" />
   <link
     rel="stylesheet"
     href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
@@ -31,8 +31,8 @@
   
   <link
     rel="stylesheet"
-    href="https://aafu.darshanbaral.com/main.min.e1e62a479f884ec468d176287b9a274d8a69d8068f3e3e5bdcaa951c8747aa6c.css"
-    integrity="sha256-4eYqR5&#43;ITsRo0XYoe5onTYpp2AaPPj5b3KqVHIdHqmw="
+    href="/main.min.885ea7dd85f23aea9ba2a8464dceff79c04c4a9c5b5fbed96496248998c446f8.css"
+    integrity="sha256-iF6n3YXyOuqboqhGTc7/ecBMSpxbX77ZZJYkiZjERvg="
     crossorigin="anonymous"
   />
    
@@ -211,10 +211,10 @@
 >
   <div>
     <a class="nav-menu-item" href="https://aafu.darshanbaral.com/">Home</a>
-    <a class="nav-menu-item" href="https://aafu.darshanbaral.com/blog">Blog</a>
+    <a class="nav-menu-item" href="/blog">Blog</a>
   </div>
   <div>
-    <a class="mr-4" href="https://aafu.darshanbaral.com/search">
+    <a class="mr-4" href="/search">
       <i class="bi bi-search"></i>
     </a>
     <i
@@ -237,55 +237,25 @@
 >
   <img
     class="rounded-sm"
-    src="https://aafu.darshanbaral.com/images/profile.jpg"
-    alt="First Last, Abbr."
+    src="/images/profile.jpg"
+    alt="Ray Wang"
   />
 </div>
 
-        <div class="px-2 text-center"><h1 class="mb-0">First Last, Abbr.</h1>
+        <div class="px-2 text-center"><h1 class="mb-0">Ray Wang</h1>
 <h2 class="mb-0">Title</h2>
-<h3 class="mb-4">City Name, ST</h3>
+<h3 class="mb-4">Columbus, OH, USA</h3>
 <div class="mb-4 flex flex-wrap justify-center">
   
   <div class="mx-2">
-    <a class="text-2xl" href="#">
+    <a class="text-2xl" href="https://www.linkedin.com/in/changrui-ray-wang-74405578/">
       <i class="mt-1 bi bi-linkedin"></i>
     </a>
   </div>
   
   <div class="mx-2">
-    <a class="text-2xl" href="#">
-      <i class="mt-1 bi bi-stack-overflow"></i>
-    </a>
-  </div>
-  
-  <div class="mx-2">
-    <a class="text-2xl" href="#">
+    <a class="text-2xl" href="https://github.com/RayinNovember">
       <i class="mt-1 bi bi-github"></i>
-    </a>
-  </div>
-  
-  <div class="mx-2">
-    <a class="text-2xl" href="#">
-      <i class="mt-1 bi bi-twitter"></i>
-    </a>
-  </div>
-  
-  <div class="mx-2">
-    <a class="text-2xl" href="#">
-      <i class="mt-1 ai ai-orcid"></i>
-    </a>
-  </div>
-  
-  <div class="mx-2">
-    <a class="text-2xl" href="#">
-      <i class="mt-1 ai ai-google-scholar"></i>
-    </a>
-  </div>
-  
-  <div class="mx-2">
-    <a class="text-2xl" href="#">
-      <i class="mt-1 ai ai-researchgate"></i>
     </a>
   </div>
   
@@ -329,8 +299,118 @@
         
       >
         <div class=""><p class="markdownify">
-  This is a demo of the <code>aafu</code> theme. It has <code>light</code> and <code>dark</code> theme.
+  I build data products.
 </p>
+</div>
+      </div>
+    </div>
+    
+    <div class="px-2">
+      <h2 class="accordion">
+        
+        <p onclick="expandAccordion(this)" style="cursor: pointer">
+          <i class="bi bi-kanban"></i>
+          Projects</p>
+      </h2>
+
+      <div
+        class="panel overflow-hidden px-2 ml-2"
+        
+        
+      >
+        <div class="">
+<h4>
+  <a href="#">Project 1</a>
+</h4>
+<p class="markdownify indent-8">Description of the project</p>
+
+<h4>
+  <a href="#">Project 2</a>
+</h4>
+<p class="markdownify indent-8">Description of the project</p>
+
+<h4>
+  <a href="#">Project 3</a>
+</h4>
+<p class="markdownify indent-8">Description of the project</p>
+
+<h4>
+  <a href="#">Project 4</a>
+</h4>
+<p class="markdownify indent-8">Description of the project</p>
+
+</div>
+      </div>
+    </div>
+    
+    <div class="px-2">
+      <h2 class="accordion">
+        
+        <p onclick="expandAccordion(this)" style="cursor: pointer">
+          <i class="bi bi-list-check"></i>
+          Skills</p>
+      </h2>
+
+      <div
+        class="panel overflow-hidden px-2 ml-2"
+        
+        id="skill-panel"
+        
+        
+      >
+        <div class=""><script>
+  let elem = document.querySelector("#skill-panel");
+  if (elem) {
+  let skillPanel = elem.previousElementSibling;
+  skillPanel.addEventListener("click", function() {
+    let skillBars = document.querySelectorAll("#skill-percent");
+    skillBars.forEach(elem => {
+      elem.style.width = elem.classList[0];
+    });
+  });
+}
+</script>
+
+<code>Machine Learning</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="90% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>Statistical Inference</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="80% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>Data Analysis &amp; Visualization</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="70% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>Deep Learning</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="50% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>AI Application</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="50% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>Python</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="60% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>R</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="80% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
+<code>Power BI</code>
+<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
+  <div id="skill-percent" class="80% bg-gray-500 dark:bg-gray-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
+</div>
+
 </div>
       </div>
     </div>
@@ -405,8 +485,8 @@
       >
         <div class="">
 
-<h4 style="text-decoration: underline;">Ph.D. in Subject</h4>
-<p class="mb-0" >2013 - 2018 &middot; University of State-City</p>
+<h4 style="text-decoration: underline;">Master of Applied Statistics</h4>
+<p class="mb-0" >2021 - 2023 &middot; The Ohio State University</p>
 
 
 <p class="ms-2">
@@ -417,8 +497,8 @@
 
 
 
-<h4 style="text-decoration: underline;">M.S. in Subject</h4>
-<p class="mb-0" >2013 - 2018 &middot; University of State-City</p>
+<h4 style="text-decoration: underline;">Master of Human Resources</h4>
+<p class="mb-0" >2015 - 2017 &middot; The Ohio State University</p>
 
 
 <p class="ms-2">
@@ -428,161 +508,6 @@
 
 
 
-
-<h4 style="text-decoration: underline;">B.S. in Subject</h4>
-<p >2004 - 2009 &middot; University of State-City</p>
-
-
-</div>
-      </div>
-    </div>
-    
-    <div class="px-2">
-      <h2 class="accordion">
-        
-        <p onclick="expandAccordion(this)" style="cursor: pointer">
-          <i class="bi bi-book"></i>
-          Publications</p>
-      </h2>
-
-      <div
-        class="panel overflow-hidden px-2 ml-2"
-        
-        
-      >
-        <div class="">
-
-
-
-
-<h4 style="text-decoration: underline;">Journal Articles</h4><p class="foo indent-8">2018; 
-  F Last, <em>F Second</em>, P secondary; 
-  <a href="#"><em>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua</em></a>; 
-  Journal of Field 52 (16), 9033-9044</p>
-<p class="foo indent-8">2018; 
-  F Last, F Second, P secondary; 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua; 
-  <a href="#">Journal of Field 52 (16), 9033-9044</a></p>
-
-
-<h4 style="text-decoration: underline;">Proceedings</h4><p class="foo indent-8">2018; 
-  F Last, F Second, P secondary; 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua; 
-  Journal of Field 52 (16), 9033-9044</p>
-
-
-
-</div>
-      </div>
-    </div>
-    
-    <div class="px-2">
-      <h2 class="accordion">
-        
-        <p onclick="expandAccordion(this)" style="cursor: pointer">
-          <i class="bi bi-kanban"></i>
-          Projects</p>
-      </h2>
-
-      <div
-        class="panel overflow-hidden px-2 ml-2"
-        
-        
-      >
-        <div class="">
-<h4>
-  <a href="#">Project 1</a>
-</h4>
-<p class="markdownify indent-8">Description of the project</p>
-
-<h4>
-  <a href="#">Project 2</a>
-</h4>
-<p class="markdownify indent-8">Description of the project</p>
-
-<h4>
-  <a href="#">Project 3</a>
-</h4>
-<p class="markdownify indent-8">Description of the project</p>
-
-<h4>
-  <a href="#">Project 4</a>
-</h4>
-<p class="markdownify indent-8">Description of the project</p>
-
-</div>
-      </div>
-    </div>
-    
-    <div class="px-2">
-      <h2 class="accordion">
-        
-        <p onclick="expandAccordion(this)" style="cursor: pointer">
-          <i class="bi bi-list-check"></i>
-          Skills</p>
-      </h2>
-
-      <div
-        class="panel overflow-hidden px-2 ml-2"
-        
-        id="skill-panel"
-        
-        
-      >
-        <div class=""><script>
-  let elem = document.querySelector("#skill-panel");
-  if (elem) {
-  let skillPanel = elem.previousElementSibling;
-  skillPanel.addEventListener("click", function() {
-    let skillBars = document.querySelectorAll("#skill-percent");
-    skillBars.forEach(elem => {
-      elem.style.width = elem.classList[0];
-    });
-  });
-}
-</script>
-
-<code>Skill 1, Skill 2</code>
-<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
-  <div id="skill-percent" class="90% bg-blue-500 dark:bg-yellow-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
-</div>
-
-<code>Skill 3</code>
-<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
-  <div id="skill-percent" class="80% bg-blue-500 dark:bg-yellow-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
-</div>
-
-<code>Skill 4</code>
-<div class="w-100 mt-1 mb-3 border border-black dark:border-gray-300 rounded-sm" style="height: 1.25rem;">
-  <div id="skill-percent" class="50% bg-blue-500 dark:bg-yellow-700 h-full rounded-sm" style="width: 0; transition: all 0.5s;"></div>
-</div>
-
-</div>
-      </div>
-    </div>
-    
-    <div class="px-2">
-      <h2 class="accordion">
-        
-        <p onclick="expandAccordion(this)" style="cursor: pointer">
-          <i class="bi bi-controller"></i>
-          Hobbies</p>
-      </h2>
-
-      <div
-        class="panel overflow-hidden px-2 ml-2"
-        
-        
-      >
-        <div class=""><ul class="pl-0">
-  
-  <li class="list-unstyled mb-2">Cooking</li>
-  
-  <li class="list-unstyled mb-2">Hiking</li>
-  
-  <li class="list-unstyled mb-2">Baking</li>
-  
-</ul>
 </div>
       </div>
     </div>

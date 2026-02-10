@@ -3,10 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://aafu.darshanbaral.com/blog/</loc>
-    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/bayesian/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/blog/bayesian/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/data-analytic/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/r/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://aafu.darshanbaral.com/tags/</loc>
+    <lastmod>2025-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/search/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
@@ -29,26 +44,11 @@
     <loc>https://aafu.darshanbaral.com/categories/syntax/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/</loc>
-    <lastmod>2022-11-19T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://aafu.darshanbaral.com/categories/themes/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/tags/themes/</loc>
     <lastmod>2022-11-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/bayesian/</loc>
-    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/blog/bayesian/</loc>
-    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/data-analytic/</loc>
-    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://aafu.darshanbaral.com/tags/r/</loc>
-    <lastmod>2018-05-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://aafu.darshanbaral.com/categories/diam-aliqua/</loc>
     <lastmod>2018-01-06T00:00:00+00:00</lastmod>
