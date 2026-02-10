@@ -3,12 +3,12 @@ baseURL : 'https://changruiraywang.netlify.app/'
 languageCode: en-us
 #build:
 #  writeStats: true
-title: Changrui Ray Wang
+title: ChangruiRayWang
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 # theme: aafu
 
 params:
-  author: Darshan Baral
+  #author: Darshan Baral
   description: Website title
   copyright: powered by [hugo](https://gohugo.io/)
   theme:
@@ -48,5 +48,5 @@ markup:
     renderer:
       unsafe: true
 
-relativeURLs: false
-canonifyURLs: true
+#relativeURLs: false
+#canonifyURLs: true
