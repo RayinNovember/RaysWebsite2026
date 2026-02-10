@@ -15,6 +15,7 @@
     --color-green-300: oklch(87.1% 0.15 154.449);
     --color-green-500: oklch(72.3% 0.219 149.579);
     --color-green-600: oklch(62.7% 0.194 149.214);
+    --color-green-700: oklch(52.7% 0.154 150.069);
     --color-green-800: oklch(44.8% 0.119 151.328);
     --color-blue-500: oklch(62.3% 0.214 259.815);
     --color-blue-600: oklch(54.6% 0.245 262.881);
@@ -871,6 +872,12 @@
   .bg-gray-300 {
     background-color: var(--color-gray-300) !important;
   }
+  .bg-gray-500 {
+    background-color: var(--color-gray-500) !important;
+  }
+  .bg-green-500 {
+    background-color: var(--color-green-500) !important;
+  }
   .p-2 {
     padding: calc(var(--spacing) * 2) !important;
   }
@@ -1120,6 +1127,11 @@
       }
     }
   }
+  .dark\:bg-blue-700 {
+    &:is(.dark *) {
+      background-color: var(--color-blue-700) !important;
+    }
+  }
   .dark\:bg-dark {
     &:is(.dark *) {
       background-color: oklch(37.4% 0.01 67.558) !important;
@@ -1128,6 +1140,16 @@
   .dark\:bg-darker {
     &:is(.dark *) {
       background-color: oklch(26.8% 0.007 34.298) !important;
+    }
+  }
+  .dark\:bg-gray-700 {
+    &:is(.dark *) {
+      background-color: var(--color-gray-700) !important;
+    }
+  }
+  .dark\:bg-green-700 {
+    &:is(.dark *) {
+      background-color: var(--color-green-700) !important;
     }
   }
   .dark\:bg-yellow-700 {
