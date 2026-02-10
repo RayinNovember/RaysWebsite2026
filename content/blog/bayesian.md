@@ -1,6 +1,6 @@
 +++
 title = 'Bayesian Analysis'
-date = 2018-05-06
+date = 2025-05-06
 draft = false
 relPermalinkOverride = '/docs/bayesian.html'
 tags = ['R', "Data Analytic", "Bayesian"]
